@@ -1,4 +1,4 @@
->> This is a sample project template for inspiration 
+>> This is a sample project information template
 # Octernship Information
 <img src="https://user-images.githubusercontent.com/53075480/213182217-c8ef7bd5-9ffe-4201-9763-c157206a5910.png" width="100">
 
