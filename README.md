@@ -1,20 +1,16 @@
 >> This is a sample project information template
 # Octernship Information
-<img src="https://user-images.githubusercontent.com/53075480/213182217-c8ef7bd5-9ffe-4201-9763-c157206a5910.png" width="100">
+*Your Logo Here*
 
 ### Company information 
-<!--- Use this section to share information about your company such as founding information, mission statement, product description, product success, etc.--->
-GitHub is the developer company. We make it easier for developers to be developers: to work together, to solve challenging problems, and to create the world’s most important technologies. We foster a collaborative community that can come together—as individuals and in teams—to create the future of software and make a difference in the world.
+*Use this section to share information about your company such as founding information, mission statement, product description, product success, etc*
 
 ### Why participate in an Octernship with GitHub
-<!--- Use this section to appeal to students. Consider sharing information about recent projects, the technology stack, the type of mentorship students can expect, listing future employment opportunities, etc. --->
-GitHub is changing the way the world builds software, and we want you to help build GitHub!
-Our team actively contributes back to the wider open source community, including the Node.js Project, OpenJS Foundation, Open Source Security Foundation & TC39.
-In this role, you will have the opportunity to work as a full-stack engineer with a distributed, diverse & passionate team delivering features & improvements to our open source projects. You’ll get to work closely with external community contributors as well as internal stakeholders from engineering, design, security, support, product & leadership. Your work will have a direct impact on the lives of millions of developers around the world.
+*Use this section to appeal to students. Consider sharing information about recent projects, the technology stack, the type of mentorship students can expect, listing future employment opportunities, etc.*
 
 ### Octernship role description
-<!--- Use this section to describe the role in as much detail as necessary. Please include the GitHub Classroom assignment submission date, length of the Octernship, and the monthly stipend --->
-We're looking for a full-stack developer to join the npm CLI team. This team is responsible for the open source tools that empower the JavaScript ecosystem to create, distribute & consume packages.
+
+We're looking for a DevOps Intern who have experience with Kubernetes or are passionate to learn Kubernetes and work in a Cloud Native DevOps environment. 
 
 | Octernship info  | Timelines and Stipend |
 | ------------- | ------------- |
@@ -23,10 +19,13 @@ We're looking for a full-stack developer to join the npm CLI team. This team is 
 | Monthly Stipend  | $700 USD  |
 
 ### Recommended qualifications
-<!--- Use this section to describe what skills a student might need to complete the problem statement on GitHub Classroom --->
+*Use this section to describe what skills a student might need to complete the problem statement on GitHub Classroom*
+
 - Experience with Git & GitHub
+- Experience with networking and basic Linux commands
+- Passion to learn Kubernetes
 - Writing modern JavaScript/Node.js
-- Passion for open source & web standards
+- Passion for open source & Cloud Native Technology
 
 ### Eligibility
 To participate, you must be:
@@ -125,7 +124,8 @@ svc-local    NodePort    10.96.122.250   <none>        8080:30000/TCP   7h33m
 ---
 
 ## Task instructions
-<!--- Use this section to describe the task that students are required to complete. We ask that you also include instructions on running and preparing the students' local environment if necessary. --->
+*Use this section to describe the task that students are required to complete. We ask that you also include instructions on running and preparing the students' local environment if necessary.*
+
 Now that you got a Kubernetes Cluster up and running it's time for the challenge! 
 We want to test whether you understood the basics of kubernetes and are willing to push yourself to understand more and create a new service on your own!
 
@@ -134,7 +134,8 @@ Your task is to
 - Route the exposed Kubernetes pod to localhost:30000 or other available PORT.
 
 ## Task Expectations
-<!--- Please add expectations that students need to follow to be considered. Some examples include: completing the task on their own, not using code from external resources without comprehending the logic, etc.  --->
+*Please add expectations that students need to follow to be considered. Some examples include: completing the task on their own, not using code from external resources without comprehending the logic, etc.*
+
 - Kubernetes pod is exposed to localhost:30000 or other available PORT
 - User can see the index page on localhost:30000 (or other available PORT) when cluster is runnning.
 - BONUS: If use an external [LoadBalancer](https://kubernetes.io/docs/tasks/access-application-cluster/create-external-load-balancer/).
@@ -149,7 +150,7 @@ Students are expected to use the [GitHub Flow](https://docs.github.com/en/get-st
 3. Using GitHub Discussions to ask any relevant questions regarding the projec
 
 ## Resources
-<!--- Use this section to add resources for students to refer to. For example: Documentation, Tutorials, Guides, and more.  --->
+*Use this section to add resources for students to refer to. For example: Documentation, Tutorials, Guides, and more.*
 
 - [Containerzie a node app](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
 - [Hosting a simple static app using Express](https://www.digitalocean.com/community/tutorials/use-expressjs-to-deliver-html-files)
