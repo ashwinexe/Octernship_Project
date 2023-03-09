@@ -35,7 +35,9 @@ To participate, you must be:
 
 # Assignment - Expose Kubernetes pod 
 
-The following steps will help you setup and reproduce Kubernetes in your machine 👇🏻
+The following steps will help you setup and reproduce Kubernetes in your machine. 👇🏻
+
+The starter code is included in this repository. ‼️
 
 ## Setting up 🖥️
 1. Install [Git](https://git-scm.com/)
