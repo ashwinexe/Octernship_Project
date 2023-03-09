@@ -1,4 +1,7 @@
->> This is a sample project information template
+>> This is a sample Octernships project for your inspiration.
+
+>> A Tl;DR is including the readme with information and starter code in a single repository. Every applied student gets a copy of this repository with write access where they submit the Octernships Task.
+
 # Octernship Information
 *Your Logo Here*
 
