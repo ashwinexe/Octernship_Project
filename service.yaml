@@ -1,1 +1,1 @@
-# TODO: Implement a service to export the kuberenetes pod via NodePort to localhost:8080
+# TODO: Implement a service to export the kuberenetes pod via NodePort to localhost:30000
